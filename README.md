@@ -65,8 +65,6 @@ src/
 ├── middlewares/     # Auth, upload, error
 ├── models/          # Mongoose models
 ├── routes/          # API routes
-├── services/        # Business logic
-└── utils/
 public/uploads/      # Lưu ảnh upload
 ```
 
@@ -201,8 +199,7 @@ http://localhost:3000/uploads/filename.png
 ## 🔒 Authorization
 
 * User chỉ sửa/xoá bài của mình
-* Admin có thể xoá tất cả bài viết
-
+* 
 ---
 
 ## ⚠️ Error Handling
