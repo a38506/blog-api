@@ -221,6 +221,7 @@ Sử dụng:
 * Postman
 * Thunder Client
 
+Để test nhanh toàn bộ API, bạn có thể import collection vào Postman
 ---
 
 ## 🚀 Công nghệ sử dụng
